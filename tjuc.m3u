@@ -1,4 +1,16 @@
 ﻿#EXTM3U url-tvg="http://iptv.im2k.com/epg"
+#EXTINF:-1 group-title="台湾",EBC-东森财经新闻
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="台湾",EBC-东森洋片
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="美国",Boomerang
+https://edge1.laotv.la/live/Boomerang/index.m3u8
+#EXTINF:-1 group-title="越南",VTV3
+https://edge1.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津卫视
 http://192.168.1.1:8686/udp/225.1.1.111:5002
 #EXTINF:-1 tvg-name="天津新闻频道" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-1新闻
