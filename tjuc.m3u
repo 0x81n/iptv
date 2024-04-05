@@ -3,10 +3,20 @@
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 group-title="台湾",EBC-东森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻台
+http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 group-title="台湾",TVBS欢乐台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 #EXTINF:-1 group-title="香港",凤凰中文
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="香港",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港",爱尔达体育
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 group-title="香港",纬来体育
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 #EXTINF:-1 group-title="美国",Boomerang
 https://edge1.laotv.la/live/Boomerang/index.m3u8
 #EXTINF:-1 group-title="越南",VTV3
