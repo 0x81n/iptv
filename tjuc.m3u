@@ -3,6 +3,12 @@
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 group-title="台湾",EBC-东森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="台湾",iNEWS
+https://github.com/ChiSheng9/iptv/raw/master/TV01.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻
+https://github.com/ChiSheng9/iptv/raw/master/TV02.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
