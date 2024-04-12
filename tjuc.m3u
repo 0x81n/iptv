@@ -3,10 +3,6 @@
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 group-title="台湾",EBC-东森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻台
-http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-#EXTINF:-1 group-title="台湾",TVBS欢乐台
-http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 #EXTINF:-1 group-title="香港",凤凰中文
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
