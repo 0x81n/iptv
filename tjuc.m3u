@@ -11,6 +11,8 @@ https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="香港",TVB功夫
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港",TVB娱乐新闻
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="澳门",澳门澳视
 http://tdm.jdshipin.com/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门卫星
