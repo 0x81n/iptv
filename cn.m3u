@@ -21,8 +21,10 @@ https://github.com/ChiSheng9/iptv/raw/master/TV31.m3u8
 https://github.com/ChiSheng9/iptv/raw/master/TV12.m3u8
 #EXTINF:-1 group-title="台湾",台视娱乐
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="台湾",台剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="香港",TVB星河
