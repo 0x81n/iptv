@@ -1,38 +1,4 @@
 ﻿#EXTM3U url-tvg="http://iptv.im2k.com/epg"
-#EXTINF:-1 group-title="台湾",EBC-东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="台湾",EBC-东森洋片
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="台湾",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="台湾",iNEWS
-https://github.com/ChiSheng9/iptv/raw/master/TV01.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-https://github.com/ChiSheng9/iptv/raw/master/TV02.m3u8
-#EXTINF:-1 group-title="台湾",TBVS新闻
-https://github.com/ChiSheng9/iptv/raw/master/TV31.m3u8
-#EXTINF:-1 group-title="台湾",华视
-https://github.com/ChiSheng9/iptv/raw/master/TV12.m3u8
-#EXTINF:-1 group-title="台湾",台视娱乐
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="台湾",台剧
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="香港",TVB星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="香港",TVB功夫
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="香港",TVB娱乐新闻
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津卫视
 http://192.168.1.1:8686/udp/225.1.1.111:5002
 #EXTINF:-1 tvg-name="天津新闻频道" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-1新闻
