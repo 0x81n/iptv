@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB4.png" group-title="香港",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
