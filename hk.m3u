@@ -1,7 +1,0 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB1.png" group-title="香港",翡翠台
-https://live.tvfix.org/live/jade/index.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB1.png" group-title="香港",TVB Plus
-https://live.tvfix.org/live/tvbplus/index.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB4.png" group-title="香港",无线新闻台
-https://live.tvfix.org/live/inews/index.m3u8
