@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://iptv.im2k.com/epg"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB1.png" group-title="香港",翡翠台
-https://live.tvfix.org/live/jade/index.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB1.png" group-title="香港",TVB Plus
-https://live.tvfix.org/live/tvbplus/index.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB4.png" group-title="香港",无线新闻台
-https://live.tvfix.org/live/inews/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津卫视
 http://192.168.1.1:8686/udp/225.1.1.111:5002
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津",天津-1新闻
@@ -71,6 +65,8 @@ http://192.168.1.1:8686/udp/225.1.2.194:5002
 http://192.168.1.1:8686/udp/225.1.2.237:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://iptv.im2k.com/logo/CCTV17.png" group-title="中央",CCTV-17农业农村
 http://192.168.1.1:8686/udp/225.1.2.52:5002
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://iptv.im2k.com/logo/CCTV-4K.png" group-title="中央",CCTV-4K超高清
+http://192.168.1.1:8686/udp/225.1.2.245:5002
 #EXTINF:-1 tvg-name="CGTN新闻" tvg-logo="http://iptv.im2k.com/logo/CGTN.png" group-title="中央",CGTN SD
 http://192.168.1.1:8686/udp/225.1.1.27:5002
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="http://iptv.im2k.com/logo/CGTNDoc.png" group-title="中央",CGTN Documentary SD
@@ -119,6 +115,8 @@ http://192.168.1.1:8686/udp/225.1.2.31:5002
 http://192.168.1.1:8686/udp/225.1.1.127:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="地方卫视",北京卫视
 http://192.168.1.1:8686/udp/225.1.1.113:5002
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://iptv.im2k.com/logo/BTV.png" group-title="地方卫视",北京卫视4K
+http://192.168.1.1:8686/udp/225.1.2.246:5002
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://iptv.im2k.com/logo/LIAONING.png" group-title="地方卫视",辽宁卫视
 http://192.168.1.1:8686/udp/225.1.1.154:5002
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://iptv.im2k.com/logo/JILIN.png" group-title="地方卫视",吉林卫视
@@ -130,7 +128,7 @@ http://192.168.1.1:8686/udp/225.1.1.116:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="地方卫视",深圳卫视
 http://192.168.1.1:8686/udp/225.1.1.117:5002
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="地方卫视",福建东南卫视
-#http://192.168.1.1:8686/udp/225.1.2.235:5002
+http://192.168.1.1:8686/udp/225.1.2.235:5002
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="地方卫视",四川卫视
 http://192.168.1.1:8686/udp/225.1.1.123:5002
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="地方卫视",重庆卫视
@@ -183,8 +181,10 @@ http://192.168.1.1:8686/udp/225.1.1.214:5002
 http://192.168.1.1:8686/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://iptv.im2k.com/logo/CHC-DZDY.png" group-title="专业频道",CHC动作电影
 http://192.168.1.1:8686/udp/225.1.1.215:5002
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="http://iptv.im2k.com/logo/ZHONGGUOTIANQI.png" group-title="专业频道",中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="http://iptv.im2k.com/logo/ZHONGGUOTIANQI.png" group-title="专业频道",中国天气-天津
 http://192.168.1.1:8686/udp/225.1.2.120:5002
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="http://iptv.im2k.com/logo/ZHONGGUOJIAOTONG.png" group-title="专业频道",中国交通-天津
+http://192.168.1.1:8686/udp/225.1.2.57:5002
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://iptv.im2k.com/logo/DONGMANXIUCHANG.png" group-title="专业频道",动漫秀场
 http://192.168.1.1:8686/udp/225.1.1.134:5002
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="http://iptv.im2k.com/logo/GAMEFY.png" group-title="专业频道",游戏风云
@@ -219,6 +219,8 @@ http://192.168.1.1:8686/udp/225.1.2.104:5002
 http://192.168.1.1:8686/udp/225.1.2.105:5002
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="http://iptv.im2k.com/logo/WUSHUSHIJIE.png" group-title="专业频道",武术世界
 http://192.168.1.1:8686/udp/225.1.2.129:5002
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="http://iptv.im2k.com/logo/ZHONGHUATECHAN.png" group-title="专业频道",中华特产
+http://192.168.1.1:8686/udp/225.1.2.248:5002
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="http://iptv.im2k.com/logo/ZHONGHUAMEISHI.png" group-title="专业频道",中华美食
 http://192.168.1.1:8686/udp/225.1.1.77:5002
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="http://iptv.im2k.com/logo/TAOCI.png" group-title="专业频道",陶瓷
@@ -243,12 +245,8 @@ http://192.168.1.1:8686/udp/225.1.1.205:5002
 http://192.168.1.1:8686/udp/225.1.2.22:5002
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="http://iptv.im2k.com/logo/JIATINGLICAI.png" group-title="专业频道",家庭理财 SD
 http://192.168.1.1:8686/udp/225.1.2.23:5002
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="http://iptv.im2k.com/logo/ZHONGHUATECHAN.png" group-title="专业频道",中华特产 SD
-http://192.168.1.1:8686/udp/225.1.2.197:5002
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="http://iptv.im2k.com/logo/CAIFUTIANXIA.png" group-title="专业频道",财富天下 SD
 http://192.168.1.1:8686/udp/225.1.2.198:5002
-#EXTINF:-1 tvg-name="车迷频道" tvg-logo="http://iptv.im2k.com/logo/CHEMIPINDAO.png" group-title="专业频道",车迷频道 SD
-http://192.168.1.1:8686/udp/225.1.2.199:5002
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="http://iptv.im2k.com/logo/HUANQIULVYOU.png" group-title="专业频道",环球旅游 SD
 http://192.168.1.1:8686/udp/225.1.2.200:5002
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="http://iptv.im2k.com/logo/SHENGTAIHUANJING.png" group-title="专业频道",生态环境 SD
